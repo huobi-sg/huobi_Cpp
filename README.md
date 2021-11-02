@@ -101,7 +101,7 @@ Please make sure the 3rd party libraries have been installed in your system. If 
 Refer to below steps to build the SDK library
 
 ```
-$ git clone https://github.com/huobiapi/huobi_Cpp.git
+$ git clone https://github.com/huobi-sg/huobi_Cpp.git
 $ cd huobi_Cpp
 $ mkdir build
 $ cd build
